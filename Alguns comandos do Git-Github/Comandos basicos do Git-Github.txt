@@ -1,0 +1,13 @@
+Comandos importantes do Git/Github
+
+
+1 - git status + Enter (para verificar o status dos arquivos)
+
+2 - git clone + link + Enter(para baixar do repositório para seu computador)
+
+3 - git commit -m "Texto explicativo" + Enter (para enviar ao repositório)
+
+4 - git add . + Enter (para adicionar arquivos e depois poder executar o commit)
+
+
+OBS. Em breve disponibilizarei mais comandos.
